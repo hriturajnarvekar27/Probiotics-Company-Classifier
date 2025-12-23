@@ -1,4 +1,4 @@
-# Probiotics Company Classifier — DT Task 2
+# Probiotics Company Classifier
 
 ## Objective
 Classify companies as:
